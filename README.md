@@ -1,5 +1,5 @@
 
-# Self-Driving Car Engineer Nanodegree
+# Self-Driving Car Engineer 
 ## Deep Learning
 ### Behavioral Cloning: Navigating a Car in a Simulator
 
