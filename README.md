@@ -115,11 +115,6 @@ Both generators use a batch size of 64. We used 20,032 images per training epoch
 
 Initially, I used a dataset I generated myself, but the model built from it was not sufficient for autonomous navigation. Later, I used the Udacity-published dataset, which, combined with data augmentation, resulted in a model that performed well on both tracks.
 
-#### Training Track
-[![training_track](https://img.youtube.com/vi/nSKA_SbiXYI/0.jpg)](https://www.youtube.com/watch?v=nSKA_SbiXYI)
-
-#### Validation Track
-[![validation_track](https://img.youtube.com/vi/ufoyhOf5RFw/0.jpg)](https://www.youtube.com/watch?v=ufoyhOf5RFw)
 
 ## Conclusions and Future Directions
 
